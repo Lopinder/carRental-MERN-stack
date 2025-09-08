@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "name": "Fortuner",
+  "brand": "Toyota",
+  "model": "2022",
+  "price_per_day": 4500,
+  "location": "Delhi",
+  "seats": 7,
+  "fuel_type": "Diesel",
+  "transmission": "Automatic",
+  "image_url": "https://..."
+}

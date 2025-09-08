@@ -3,6 +3,10 @@ import Zoomo from './Zoomo'
 import Stripes from './Stripes'
 import Top from './Top'
 import Marquees from './Marquees'
+<<<<<<< HEAD
+=======
+import Footer from './Footer'
+>>>>>>> 89933d8ea30beabc7ec798edbb16a4faf77cef55
 
 function Home() {
   return (
@@ -11,6 +15,10 @@ function Home() {
       <Stripes />
       <Top />
       <Marquees />
+<<<<<<< HEAD
+=======
+      <Footer />
+>>>>>>> 89933d8ea30beabc7ec798edbb16a4faf77cef55
     </div>
   )
 }
